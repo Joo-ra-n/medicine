@@ -13,6 +13,6 @@
     
 # Main color(suggested)
 - FF8C00  
-![FF8C00](./img/ff8c00.png)  
+![FF8C00](./medicine/img/ff8c00.png)  
 - FFA500  
-![FFA500](./img/ffa500.png)  
+![FFA500](./medicine/img/ffa500.png)  
